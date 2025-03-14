@@ -46,8 +46,4 @@ This project analyzes the global air traffic network using the provided dataset 
 - Matplotlib
 - NumPy
 
-## Setup Instructions:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Global-Air-Traffic-Network-Analysis.git
-   cd Global-Air-Traffic-Network-Analysis
+
