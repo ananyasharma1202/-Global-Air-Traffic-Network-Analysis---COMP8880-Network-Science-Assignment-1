@@ -34,10 +34,10 @@ This project analyzes the global air traffic network using the provided dataset 
   - This question calculates the betweenness centrality for each city/airport and lists the top 10 cities with the highest betweenness centrality values.
 
 ## Project Structure:
-- `air_traffic_network_analysis.ipynb`: Jupyter notebook containing the analysis and answers to the questions.
+- `Assignment_1_submission_u7669839.ipynb`: Jupyter notebook containing the analysis and answers to the questions.
 - `global-cities.dat`: Data file containing city/airport information.
 - `global-net.dat`: Data file containing the air traffic network (edges between nodes).
-- `plots/`: Directory containing degree distribution plots and log-log scale plots.
+
 
 ## Requirements:
 - Python 3.x
